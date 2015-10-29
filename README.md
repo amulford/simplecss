@@ -9,7 +9,10 @@ It is currently responsive for screen resolutions <= 768px wide.
 
 ### Column Widths
 
-Columns are similar to other frameworks. **Use col-n** where **n** is an int >= 0 and <= 12
+Columns are similar to other frameworks. **Use col-n** where **n** is an int > 0 and <= 12
 representing the % width of a column.  
 
 ### Column Offset
+
+Columns can be offset using **col-offset-n**. 
+
